@@ -1,0 +1,54 @@
+body {
+    margin: 0% 10%;
+    background-image: url('images/background.gif');
+}
+
+.purplebox {
+    border-bottom: solid blue 2px;
+    border-bottom-style: dashed;
+}
+
+.redbox {
+    text-align: right;
+    background-color: #A8F0F0;
+}
+
+.orangebox {
+    font-size: 14pt;
+    text-align: right;
+}
+
+.bluebox {
+    border: solid #C2E9E9 4px;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.right_image {
+    float: right;
+}
+
+.page_body {
+    border: solid white 10px;
+    background-color: white;
+    overflow: auto;
+}
+
+.friends {
+    float: left;
+    border: solid green 5px;
+    background-color: aquamarine;
+    width: 20%;
+    margin-top: 10px;
+}
+
+.column_two {
+    float: right;
+    width: 75%;
+}
+
+.small_page_container {
+    clear: both;
+}
